@@ -1,4 +1,14 @@
-### Hi there 👋
+# 👋 Olá, sou Nilton!
+
+## 🚀 Sobre Mim
+
+Meu nome é Nilton, um entusiasta da tecnologia apaixonado por desenvolvimento de software. Minha jornada profissional começou na área de tecnologia, onde atuei como especialista em suporte técnico ao usuário no Ministério dos Transportes. Ao longo de sete anos, atendi desde estagiários até o ministro, destacando-me como técnico especialista, liderando equipes e supervisionando casos complexos.
+
+Em busca de novos desafios, assumi diferentes papéis na gestão de uma loja de materiais de estofamento, passando de conferente a vendedor e subgerente. Essa experiência trouxe valiosas habilidades de liderança e resolução de problemas.
+
+No entanto, minha verdadeira paixão sempre foi a tecnologia e programação. Decidi seguir meu coração e dedicar-me exclusivamente ao desenvolvimento de sistemas. Ingressei em uma formação fullstack intensiva na Driven, onde enfrentei desafios semanais e desenvolvi projetos envolventes. Consolidando meu conhecimento em JavaScript, TypeScript, NodeJs, ReactJs, NextJs, entre outras tecnologias.
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/niltonrnascimento/" target="_blank">
