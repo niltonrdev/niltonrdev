@@ -2,12 +2,16 @@
 
 ## 🚀 Sobre Mim
 
-Meu nome é Nilton, um entusiasta da tecnologia apaixonado por desenvolvimento de software. Minha jornada profissional começou na área de tecnologia, onde atuei como especialista em suporte técnico ao usuário no Ministério dos Transportes. Ao longo de sete anos, atendi desde estagiários até o ministro, destacando-me como técnico especialista, liderando equipes e supervisionando casos complexos.
+Bem-vindo ao meu github! Sou Nilton, apaixonado por tecnologia e sempre animado para trazer não apenas meu conhecimento profissional, mas uma verdadeira paixão pela programação e inovação. Com um bacharelado em Sistemas de Informação, minha trajetória vai desde o suporte técnico ao usuário até a gestão de uma loja de estofamentos.
 
-Em busca de novos desafios, assumi diferentes papéis na gestão de uma loja de materiais de estofamento, passando de conferente a vendedor e subgerente. Essa experiência trouxe valiosas habilidades de liderança e resolução de problemas.
+🚀 Minha Jornada:
 
-No entanto, minha verdadeira paixão sempre foi a tecnologia e programação. Decidi seguir meu coração e dedicar-me exclusivamente ao desenvolvimento de sistemas. Ingressei em uma formação fullstack intensiva na Driven, onde enfrentei desafios semanais e desenvolvi projetos envolventes. Consolidando meu conhecimento em JavaScript, TypeScript, NodeJs, ReactJs, NextJs, entre outras tecnologias.
+Sete anos como especialista em suporte técnico ao usuário no Ministério dos Transportes, liderando equipes e resolvendo problemas.
+Experiência na gestão de uma loja de materiais de estofamento, atuando como conferente, vendedor e subgerente.
+💻 Minha Paixão pela Programação:
 
+Decidi dedicar-me exclusivamente ao desenvolvimento de sistemas após uma intensiva formação fullstack na Driven.
+Domínio em JavaScript, TypeScript, NodeJs, ReactJs, NextJs e mais, enfrentando desafios semanais e consolidando conhecimento.
 
 
 <div align="center">
