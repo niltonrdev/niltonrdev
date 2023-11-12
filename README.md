@@ -2,12 +2,13 @@
 
 ## 🚀 Sobre Mim
 
-Bem-vindo ao meu github! Sou Nilton, apaixonado por tecnologia e sempre animado para trazer não apenas meu conhecimento profissional, mas uma verdadeira paixão pela programação e inovação. Com um bacharelado em Sistemas de Informação, minha trajetória vai desde o suporte técnico ao usuário até a gestão de uma loja de estofamentos.
+Bem-vindo ao meu github! Sou apaixonado por tecnologia e sempre animado para trazer não apenas meu conhecimento profissional, mas uma verdadeira paixão pela programação e inovação. Com um bacharelado em Sistemas de Informação, minha trajetória vai desde o suporte técnico ao usuário até a gestão de uma loja de estofamentos.
 
 🚀 Minha Jornada:
 
 Sete anos como especialista em suporte técnico ao usuário no Ministério dos Transportes, liderando equipes e resolvendo problemas.
 Experiência na gestão de uma loja de materiais de estofamento, atuando como conferente, vendedor e subgerente.
+
 💻 Minha Paixão pela Programação:
 
 Decidi dedicar-me exclusivamente ao desenvolvimento de sistemas após uma intensiva formação fullstack na Driven.
