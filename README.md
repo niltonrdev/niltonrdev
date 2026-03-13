@@ -2,19 +2,66 @@
 
 ## 🚀 Sobre Mim
 
-Bem-vindo ao meu github! Sou apaixonado por tecnologia e sempre animado para trazer não apenas meu conhecimento profissional, mas uma verdadeira paixão pela programação e inovação. Com um bacharelado em Sistemas de Informação, minha trajetória vai desde o suporte técnico ao usuário até a gestão de uma loja de estofamentos.
+Bem-vindo ao meu GitHub!  
+Sou **Nilton Rodrigues**, Desenvolvedor **Full Stack**, formado em **Sistemas de Informação**, apaixonado por tecnologia e por resolver problemas reais através de software.
 
-🚀 Minha Jornada:
+Minha trajetória na tecnologia começou muito antes de atuar como desenvolvedor. Foram **7 anos trabalhando com suporte técnico e gestão de TI**, atendendo desde usuários finais até cargos estratégicos no Ministério dos Transportes. Essa experiência desenvolveu em mim algo que levo até hoje para o código: **capacidade de diagnóstico, pensamento sistêmico e foco na solução do problema do usuário.**
 
-Sete anos como especialista em suporte técnico ao usuário no Ministério dos Transportes, liderando equipes e resolvendo problemas.
-Experiência na gestão de uma loja de materiais de estofamento, atuando como conferente, vendedor e subgerente.
+## 💼 Experiência como Desenvolvedor
 
-💻 Minha Paixão pela Programação:
+Atuei como **Desenvolvedor Full Stack na AllTax**, evoluindo de **Trainee para Desenvolvedor Pleno**, trabalhando na plataforma fiscal **TIMP**.
 
-Decidi dedicar-me exclusivamente ao desenvolvimento de sistemas após uma intensiva formação fullstack na Driven.
-Domínio em JavaScript, TypeScript, NodeJs, ReactJs, NextJs e mais, enfrentando desafios semanais e consolidando conhecimento.
+Durante esse período trabalhei com:
 
+- Desenvolvimento **Front-end e Back-end em JavaScript**
+- Modelagem de dados avançada em **SAP HANA (XSA, Calculation Views, APs)**
+- Correção de **bugs complexos e melhorias em sistemas corporativos**
+- Deploys e integração com **SAP HANA Cloud**
+- Trabalho em **times ágeis (Scrum / Kanban)** com gestão de tarefas via **JIRA**
 
+Participei de projetos utilizados por grandes empresas como **Petrobras, P&G, BRF, 3Corações e CTG**, garantindo estabilidade e evolução de soluções fiscais corporativas.
+
+## 💻 Stack e Tecnologias
+
+**Linguagens**
+- JavaScript
+- TypeScript
+- SQL
+
+**Front-end**
+- React
+- HTML
+- CSS
+
+**Back-end**
+- Node.js
+- APIs REST
+
+**Banco de Dados**
+- SAP HANA
+- PostgreSQL
+- MongoDB
+
+**Ferramentas & Metodologias**
+- Git / GitLab
+- CI/CD
+- JIRA
+- Scrum / Kanban
+
+## 📚 Minha Jornada no Desenvolvimento
+
+Minha transição para o desenvolvimento aconteceu após uma formação intensiva **Full Stack na Driven Education**, onde desenvolvi **mais de 20 aplicações completas**, atuando em todo o ciclo de desenvolvimento:
+
+- Modelagem de banco de dados  
+- Desenvolvimento Front-end e Back-end  
+- Testes unitários e de integração  
+- Deploy e versionamento
+
+Essa experiência consolidou minha base técnica e abriu as portas para atuar profissionalmente no desenvolvimento de software.
+
+📫 **Contato:**  
+LinkedIn: www.linkedin.com/in/nilton-rn  
+Email: niltonrnascimento@hotmail.com
 <div align="center">
   <a href="https://www.linkedin.com/in/niltonrnascimento/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
