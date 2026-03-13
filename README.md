@@ -58,8 +58,7 @@ Minha transição para o desenvolvimento aconteceu após uma formação intensiv
 Essa experiência consolidou minha base técnica e abriu as portas para atuar profissionalmente no desenvolvimento de software.
 
 📫 **Contato:**  
-LinkedIn: www.linkedin.com/in/nilton-rn  
-Email: niltonrnascimento@hotmail.com
+
 <div align="center">
   <a href="https://www.linkedin.com/in/niltonrnascimento/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
