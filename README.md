@@ -1,5 +1,3 @@
-# 👋 Olá, sou Nilton!
-
 ## 🚀 Sobre Mim
 
 Bem-vindo ao meu GitHub!  
